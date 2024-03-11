@@ -1,4 +1,3 @@
-package GameOfLife3;
 
 import java.awt.*;
 import java.awt.event.*;
@@ -10,7 +9,7 @@ enum inProgress{
 	IN_PROGRESS,
 	NOT_IN_PROGRESS
 }
-public class GameOfLife3 extends JFrame implements Runnable, MouseListener, MouseMotionListener {
+public class GameOfLife extends JFrame implements Runnable, MouseListener, MouseMotionListener {
 	private static final Dimension WindowSize = new Dimension(800,800);
 	private BufferStrategy strategy;
 	protected inProgress gameState;
@@ -22,7 +21,7 @@ public class GameOfLife3 extends JFrame implements Runnable, MouseListener, Mous
 	private boolean[][][] cells = new boolean[40][40][2];
 	
 	//constructor
-	public GameOfLife3() {
+	public GameOfLife() {
 		addMouseListener(this);
 		addMouseMotionListener(this);
 		
@@ -354,7 +353,7 @@ public class GameOfLife3 extends JFrame implements Runnable, MouseListener, Mous
 	}
 	
 	public static void main(String[] args) {
-		GameOfLife3 test = new GameOfLife3();
+		GameOfLife test = new GameOfLife();
 	}
 
 		
