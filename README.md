@@ -18,7 +18,7 @@ Note that it only allows 1 save at a time and upon pressing the save button agai
 - Each cell with four or more neighbors dies, as if by overpopulation.<br>
 - Each cell with two or three neighbors survives.<br>
 <br>
-**For a space that is empty or unpopulated:** <br>
+ **For a space that is empty or unpopulated:** <br>
 - Each cell with three neighbors becomes populated. "<br><br>
 **Credit:** https://playgameoflife.com/info<br>
 
