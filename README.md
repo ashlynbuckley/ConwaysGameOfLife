@@ -20,6 +20,7 @@ Note that it only allows 1 save at a time and upon pressing the save button agai
 
 **For a space that is empty or unpopulated:** <br>
 - Each cell with three neighbors becomes populated. <br><br>
+
 **Credit:** [playgameoflife.com](https://playgameoflife.com/info)
 
 
