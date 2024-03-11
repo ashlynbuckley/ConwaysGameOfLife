@@ -23,4 +23,7 @@ Each cell with three neighbors becomes populated. "<br>
 Credit: https://playgameoflife.com/info<br>
 
 ## Instructions
-Code is contained within one .java file, to make use of loading and saving, you must change the directory for the .txt save file manually.
+Code is contained within one .java file, to make use of loading and saving, you must change the directory for the .txt save file manually.<br>
+Make sure you have Java installed on your system. This project requires the following Java modules:<br>
+- **java.base**: The foundational module providing core Java APIs.
+- **java.desktop**: The module for desktop-related functionality and GUI operations.
