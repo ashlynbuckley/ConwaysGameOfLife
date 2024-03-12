@@ -1,5 +1,5 @@
 # John Conway's Game Of Life 🐣
-This was a project for my CT255 Next Generation Technologies I: 2D Games Programming with indie game dev Sam Redfern.<br>
+This was a project for my CT255 Next Generation Technologies II: 2D Games Programming with indie game dev Sam Redfern.<br>
 
 ## Overview
 Conway was a mathematician, who in 1970, made one of the first examples of cellular automata, "The Game of Life", or simply "Life".<br>
