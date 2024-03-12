@@ -26,6 +26,6 @@ Note that it only allows 1 save at a time and upon pressing the save button agai
 
 ## Instructions
 Code is contained within one .java file, to make use of loading and saving, you must change the directory for the .txt save file manually.<br>
-This project requires the following Java modules:<br>
+**This project requires the following Java modules:** <br>
 - **java.base**: The foundational module providing core Java APIs.
 - **java.desktop**: The module for desktop-related functionality and GUI operations.
